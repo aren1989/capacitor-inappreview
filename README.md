@@ -1,1 +1,1 @@
-# capacitor-inappreview
+# Integrate in-app reviews - Capacitor - Android
